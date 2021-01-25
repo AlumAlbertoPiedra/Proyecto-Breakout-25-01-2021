@@ -59,9 +59,9 @@ public class App extends Application {
         ImageView imgView = new ImageView(img);
         
         //Color personaje
-        rectangleCuerpo.setFill(Color.PURPLE);
-        rectanglePierna1.setFill(Color.BROWN);
-        rectanglePierna2.setFill(Color.BROWN);
+        rectangleCuerpo.setFill(Color.LIGHTGREEN);
+        rectanglePierna1.setFill(Color.RED);
+        rectanglePierna2.setFill(Color.RED);
         rectangleMano1.setFill(Color.RED);
         rectangleMano1.setRotate(225);
         rectangleMano2.setFill(Color.RED);
